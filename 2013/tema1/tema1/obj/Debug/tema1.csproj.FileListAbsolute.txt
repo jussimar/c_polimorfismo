@@ -1,0 +1,6 @@
+c:\users\jussimar\documents\visual studio 2013\Projects\tema1\tema1\bin\Debug\tema1.exe.config
+c:\users\jussimar\documents\visual studio 2013\Projects\tema1\tema1\obj\Debug\tema1.csprojResolveAssemblyReference.cache
+c:\users\jussimar\documents\visual studio 2013\Projects\tema1\tema1\bin\Debug\tema1.exe
+c:\users\jussimar\documents\visual studio 2013\Projects\tema1\tema1\bin\Debug\tema1.pdb
+c:\users\jussimar\documents\visual studio 2013\Projects\tema1\tema1\obj\Debug\tema1.exe
+c:\users\jussimar\documents\visual studio 2013\Projects\tema1\tema1\obj\Debug\tema1.pdb
